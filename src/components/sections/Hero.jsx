@@ -192,11 +192,34 @@ const ResumeButton = styled.a`
 // `;
 
 const Img = styled.img`
-   width: 84%;
+  width: 100%; 
   height: auto;
   display: block; 
-  margin-top: -200px;
+  margin: -200px auto 0; 
+
+  /* Responsive adjustments */
+  @media (max-width: 1024px) {
+    margin-top: -150px; /* Adjust margin for medium screens */
+  }
+
+  @media (max-width: 768px) {
+    width: 90%; /* Scales down width for tablets */
+    margin-top: -100px;
+  }
+
+  @media (max-width: 640px) {
+    max-width: 280px; /* Restricts size for smaller devices */
+    max-height: 280px;
+    margin-top: -50px;
+  }
+
+  @media (max-width: 480px) {
+    max-width: 240px; /* Even smaller adjustments for very small screens */
+    margin-top: -20px;
+  }
 `;
+
+
 
 
 const HeroBg = styled.div`
