@@ -110,6 +110,16 @@ export const skills = [
         image:
           "https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj",
       },
+      {
+        name: "Java",
+        image:
+          "https://techware.com.np/storage/blog/D3B99or2Ggpbm7ykifNr5GqfHZRtz1OZut6jbnOF.jpeg",
+      },
+      {
+        name: "Data Structure and Algorithim",
+        image:
+          "https://techware.com.np/storage/blog/D3B99or2Ggpbm7ykifNr5GqfHZRtz1OZut6jbnOF.jpeg",
+      },
     ],
   },
 ];
@@ -187,12 +197,29 @@ export const education = [
 export const projects = [
   {
     id: 11,
+    title: "Chess",
+    date: "Nov 2024 - Nov 2024",
+    description:
+      "The code sets up a real-time multiplayer chess game using Node.js, Socket.IO, and chess.js, allowing players to connect, play, and validate moves. It dynamically manages roles (white, black, or spectator) and keeps the board state synchronized for all users.",
+    image:
+      "https://blog.ipleaders.in/wp-content/uploads/2019/11/foodmitho.jpg",
+    tags: [
+      "Socket.Io",
+      "chess.js",
+      "Node.js",
+      "Express.js",
+    ],
+    category: "web app",
+    github: "https://github.com/Beingadnan/FoodXpress.git",
+  },
+  {
+    id: 11,
     title: "FoodXpress",
     date: "July 2024 - July 2024",
     description:
       "foodXpress is a dynamic food delivery app with a user-friendly React.js frontend. It offers seamless navigation, visually appealing components, and an intuitive interface for browsing menus and placing orders.",
     image:
-      "https://private-user-images.githubusercontent.com/70937059/389407547-09bfa234-ee1f-42c0-be63-55a20b85b083.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI1MTc4MzEsIm5iZiI6MTczMjUxNzUzMSwicGF0aCI6Ii83MDkzNzA1OS8zODk0MDc1NDctMDliZmEyMzQtZWUxZi00MmMwLWJlNjMtNTVhMjBiODViMDgzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI1VDA2NTIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzMDk3ZDA2Y2U1NGRkMzE4MTUzNDlmYTA5Y2YyYThkZTJhM2M2MWFhZGVjOWQ2M2U5MWMxZjAxN2VhMWZjYzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6w3TM7kn7Z6DaximBd4pbBoZ2xfRey6h3jgxAOFwTuI",
+      "https://blog.ipleaders.in/wp-content/uploads/2019/11/foodmitho.jpg",
     tags: [
       "React Js",
       "Redux",
@@ -208,7 +235,7 @@ export const projects = [
     description:
       "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
     image:
-      "https://private-user-images.githubusercontent.com/70937059/389409022-aaeb2a0f-798a-43cb-b211-766e5b218034.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI1MTgwMDgsIm5iZiI6MTczMjUxNzcwOCwicGF0aCI6Ii83MDkzNzA1OS8zODk0MDkwMjItYWFlYjJhMGYtNzk4YS00M2NiLWIyMTEtNzY2ZTViMjE4MDM0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI1VDA2NTUwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjMzg0ZTVkMzM1M2JjYjYwZTBmNWMzMzI5NGExZjkzZTI2YjMzY2ZhMWM0NTI4ZmM1Yjg2NzFmZjkwMDg5M2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pZJVQ4Fg0tdiYv7MYhPFN0ySvu_FbSCC0fPH8hC7UtI",
+      "https://www.growform.co/wp-content/uploads/2022/03/2022-03-21-18.14.34.gif",
     tags: [
       "React Js",
       "Redux",
