@@ -202,7 +202,7 @@ export const projects = [
     description:
       "The code sets up a real-time multiplayer chess game using Node.js, Socket.IO, and chess.js, allowing players to connect, play, and validate moves. It dynamically manages roles (white, black, or spectator) and keeps the board state synchronized for all users.",
     image:
-      "https://blog.ipleaders.in/wp-content/uploads/2019/11/foodmitho.jpg",
+      "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpNtZwIg.png",
     tags: [
       "Socket.Io",
       "chess.js",
