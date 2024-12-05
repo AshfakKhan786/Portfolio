@@ -210,7 +210,7 @@ export const projects = [
       "Express.js",
     ],
     category: "web app",
-    github: "https://github.com/Beingadnan/FoodXpress.git",
+    github: "https://github.com/Beingadnan/chess-Game.git",
   },
   {
     id: 11,
