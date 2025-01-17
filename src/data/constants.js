@@ -12,9 +12,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/16RIgDh2r-OrjjgRJ7p0lj9MoSg6J1Hc6/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/adnan-khan-901324207/",
-  // twitter: "https://twitter.com/RishavChanda",
-  // insta: "https://www.instagram.com/rishav_chanda/",
-  // facebook: "https://www.facebook.com/rishav.chanda.165/",
+  insta: "https://www.instagram.com/__being_adnankhan__/",
 };
 
 export const skills = [
@@ -76,6 +74,11 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
       {
+        name: "SQL",
+        image:
+          "https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/6697e5d70e6b50dbe5bbe3dd_6697e36f9a2e61c3f9a3c850_SQL.jpeg",
+      },
+      {
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
@@ -108,7 +111,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFNi8oEe3Wd_duKIjeHPLebMrC-3fB5vlqr9fn8y2oOcX9_uEAP3j9mFQGA5u-5s2DEw&usqp=CAU",
       },
       {
         name: "Java",
