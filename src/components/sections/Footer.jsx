@@ -84,7 +84,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Adnan Khan</Logo>
+        <Logo>Ashfak Khan</Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
@@ -100,7 +100,7 @@ const Footer = () => {
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Adnan Khan. All rights reserved.</Copyright>
+        <Copyright>&copy; 2024 Ashfak Khan. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

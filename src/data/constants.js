@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Adnan  Khan",
+  name: "Ashfak  Khan",
   roles: [
     "Fronted Developer",
     "Backend Developer",
@@ -8,11 +8,11 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/Beingadnan",
+  github: "https://github.com/AshfakKhan786",
   resume:
     "https://drive.google.com/file/d/16RIgDh2r-OrjjgRJ7p0lj9MoSg6J1Hc6/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/adnan-khan-901324207/",
-  insta: "https://www.instagram.com/__being_adnankhan__/",
+  linkedin: "https://www.linkedin.com/in/ashfak-khan-he-him-2a643728b/",
+  insta: "https://www.instagram.com/_ashfak04/",
 };
 
 export const skills = [
@@ -173,104 +173,110 @@ export const education = [
     img: "https://assets.collegedunia.com/public/college_data/images/logos/1718956347horizontalpolarislogoblacktypeface.png",
     school: "Polaris School Of Technology",
     date: "Aug 2024 - Aug 2027",
-    grade: "9.91 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Polaris School of Technology. I have completed 2 semesters and have a CGPA of 9.91. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    grade: "8.83 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Polaris School of Technology. I have completed 4 semesters and have a CGPA of 8.83. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 1,
     img: "https://upload.wikimedia.org/wikipedia/en/d/d2/Jharkhand_Academic_Council.jpeg",
-    school: "CH +2 High School",
+    school: "Prince High School,Sikar",
     date: "2020 -  2022",
-    grade: "80.0%",
-    desc: "I completed my class 12 high school education at CH +2 High School, Jhumri Telaiya, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    grade: "67.0%",
+    desc: "I completed my class 12 high school education at Prince High School, Sikar(Raj), where I studied Science with Computer Science.",
+    degree: "RBSE(XII), Science with Computer",
   },
   {
     id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0Tp-eFGWjE212rGYLSOKZ7EEU5y9j_BTxuXLxDTwMgJRYm46CDwrHiyK1w0Z5Y-3Dak&usqp=CAU",
-    school: "Pvss Dav Public School,Jhumri Telaiya",
+    school: "Shaheed Gazi Memorial Sr. Sec. School, Sherani Abad",
     date: "Apr 2019 - Apr 2020",
-    grade: "83.7%",
-    desc: "I completed my class 10 education at Pvss Dav Public School, Jhumri telaiya, where I studied Science with Computer Application.",
-    degree: "ICSC(X)",
+    grade: "69.7%",
+    desc: "I completed my class 10 education atShaheed Gazi Memorial Sr. Sec. School, Sherani Abad,",
+    degree: "RBSE(X)",
   },
 ];
 
 export const projects = [
   {
     id: 11,
-    title: "Chess",
-    date: "Nov 2024 - Nov 2024",
+    title: "Inventory Management System",
+    date: "MArch 2025 - March 2025",
     description:
-      "The code sets up a real-time multiplayer chess game using Node.js, Socket.IO, and chess.js, allowing players to connect, play, and validate moves. It dynamically manages roles (white, black, or spectator) and keeps the board state synchronized for all users.",
+      "Inventory Management System Application Built a full-stack web app using React.js (frontend) and Node.js/Express.js (backend) with MongoDB for database management. Implemented user authentication, product management, and real-time inventory tracking features.",
     image:
-      "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpNtZwIg.png",
+      "https://private-user-images.githubusercontent.com/99351091/253782769-09f7d43a-344b-4122-b415-b3736307cf45.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MTI2NjQsIm5iZiI6MTc1ODYxMjM2NCwicGF0aCI6Ii85OTM1MTA5MS8yNTM3ODI3NjktMDlmN2Q0M2EtMzQ0Yi00MTIyLWI0MTUtYjM3MzYzMDdjZjQ1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTIzVDA3MjYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3ZGFkNDkzNTBlYjRmZjEyN2Y1YjgyYzdlZTg5ODA1ZmU2YTE4NGRmNDk2NDY2YWE3MGRlNGY5ZjRkMWU4Y2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JL30RLJ1PgnM6dVt9XRg2Cz-_oXeJ_JQQ95mp7qw2K8",
     tags: [
-      "Socket.Io",
-      "chess.js",
+      "React.js",
+      "Material UI",
+      "MongoDB",
       "Node.js",
       "Express.js",
     ],
-    category: "web app",
-    github: "https://github.com/Beingadnan/chess-Game.git",
+    category: "web application",
+    github: "https://github.com/AshfakKhan786/Inventory_Management",
   },
   {
     id: 11,
-    title: "FoodXpress",
-    date: "July 2024 - July 2024",
+    title: "Weather-Application",
+    date: "Sep 2025 - Sep 205",
     description:
-      "foodXpress is a dynamic food delivery app with a user-friendly React.js frontend. It offers seamless navigation, visually appealing components, and an intuitive interface for browsing menus and placing orders.",
+      "Weather Application is a web app that provides real-time weather information for any location worldwide. It features a user-friendly interface, allowing users to search for cities and view current weather conditions, forecasts, and other relevant data. The app is built using React.js for the frontend, Redux for state management, and React Flow for visualizing weather patterns. It integrates with a weather API to fetch accurate and up-to-date weather data.",
     image:
-      "https://blog.ipleaders.in/wp-content/uploads/2019/11/foodmitho.jpg",
+      "https://camo.githubusercontent.com/e5ae82855313247bccd6d699822d75f5e655f1f0608c452b3d0828175379fbad/68747470733a2f2f7777772e68746d6c68696e74732e636f6d2f696d6167652f72656163742f7265616374576561746865724170702e706e67",
     tags: [
       "React Js",
       "Redux",
       "React Flow",
     ],
-    category: "web app",
-    github: "https://github.com/Beingadnan/FoodXpress.git",
+    category: "web application",
+    github: "https://github.com/AshfakKhan786/Weather-Application",
   },
   {
     id: 9,
-    title: "Multi-Page Form",
-    date: "Jun 2023 - Jul 2023",
+    title: "Chat Application",
+    date: "Aug 2025 - Aug 2025",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "A real-time chat application built with React.js and Socket.io, allowing users to send and receive messages instantly. Features include user authentication, multiple chat rooms, and a responsive design for seamless communication across devices.",
     image:
-      "https://www.growform.co/wp-content/uploads/2022/03/2022-03-21-18.14.34.gif",
+      "https://private-user-images.githubusercontent.com/153702753/492915793-85d33a08-296b-46a7-ae61-bb47abce8fc5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2NDQyNTQsIm5iZiI6MTc1ODY0Mzk1NCwicGF0aCI6Ii8xNTM3MDI3NTMvNDkyOTE1NzkzLTg1ZDMzYTA4LTI5NmItNDZhNy1hZTYxLWJiNDdhYmNlOGZjNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QxNjEyMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NmFiMDBkYmU0NzRjMzM0NTIxNzZhNzQ1ZDAwYzI4MTAyOWQxNWEzMjU1Nzg4YjNiYTJkZjZkNzJmNmE4MDg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Xredx3NiMlcQN5C6nBPKAQhgH-AxnR_LgHSlG5lqfZY",
     tags: [
       "React Js",
       "Redux",
+      "Socket.io",
+      "Node Js",
+      "Express Js",
     ],
-    category: "web app",
-    github: "https://github.com/Beingadnan/Multi-Page-Form.git",
+    category: "web application",
+    github: "https://github.com/AshfakKhan786/Chat-Appllication/tree/main?tab=readme-ov-files",
   },
   {
     id: 0,
-    title: "Postify",
-    date: "Apr 2023 - May 2023",
+    title: "Quiz App",
+    date: "Apr 2024 - May 2024",
     description:
-      "A web app built with Express.js featuring user authentication, profile management, posting, editing, liking, and secure session handling with JWT.",
+      "Developed an interactive Quiz Application using React.js with dynamic question rendering and real-time score tracking. Implemented multiple-choice questions, instant feedback, and a results summary at the end of the quiz. Added responsive UI for seamless use across devices with state management using React hooks.",
     image:
-      "https://swoopnow.com/wp-content/uploads/2020/07/User-Authentication_-Understanding-the-Basics-Top-Tips.jpg",
-    tags: ["EJS", "MongoDb", "Node Js", "Express Js"],
+      "https://private-user-images.githubusercontent.com/153702753/492919696-33383b3a-85bf-4ffb-967c-a342c76e6f72.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2NDQzODIsIm5iZiI6MTc1ODY0NDA4MiwicGF0aCI6Ii8xNTM3MDI3NTMvNDkyOTE5Njk2LTMzMzgzYjNhLTg1YmYtNGZmYi05NjdjLWEzNDJjNzZlNmY3Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QxNjE0NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNzFkNDc0ZGNiYTEzNjllMjczNDcwZTcyOGM3NjZjZTRmNjkyODcyY2ZkNTZlOGY5YWFmMmMxOGUxYzkyYTE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9UJuNI0ni0Uei_S4bvKiUtWpHHy-DiElLcxMxnjO47M",
+    tags: ["React Js", "CSS", "HTML", "JavaScript",],
     category: "web app",
-    github: "https://github.com/Beingadnan/Authentication-and-authorization.git",
+    github: "https://github.com/AshfakKhan786/QuizApp?tab=readme-ov-file",
   },
   {
     id: 1,
-    title: "Spotify Clone",
-    date: "Oct 2022 - Jan 2023",
-    description:"A Spotify clone built using HTML and CSS, featuring a sleek, responsive design that replicates Spotify's UI for browsing playlists, artists, and albums.",
+    title: "Calculater",
+    date: "Oct 2023 - Nav 2023",
+    description:"Built a responsive Calculator Application using React.js with a clean and intuitive user interface. Implemented basic arithmetic operations (addition, subtraction, multiplication, division) with real-time result display. Utilized React hooks for state management and ensured smooth button interactions. Designed for both desktop and mobile compatibility.",
     image:
-      "https://play-lh.googleusercontent.com/kDXJ6XA2Cm47lzDCvvu6HNCu0PWmTwZKiY0ldCWrCgXGT3Ms-lbP_WN1v5vknspnLT15=w526-h296-rw",
+      "https://private-user-images.githubusercontent.com/153702753/492924281-09855df1-2ea0-45aa-8683-9f9d3db32a97.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2NDQ4MjMsIm5iZiI6MTc1ODY0NDUyMywicGF0aCI6Ii8xNTM3MDI3NTMvNDkyOTI0MjgxLTA5ODU1ZGYxLTJlYTAtNDVhYS04NjgzLTlmOWQzZGIzMmE5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QxNjIyMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMjViZWFlZjdhYjE0NzIzYjdiY2RkMjA5MjYzNDU2ODI0MDI2NzU0MTk0MTEyODA3NWFlY2VjMDU4MDY0NGNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WtwlHibLfI01ncAUh76UqCBTTa9hSCziVfF50YghDeM",
     tags: [
       "Html",
-      "CSS"
+      "CSS",
+      "JavaScript",
+      "React Js",
     ],
     category: "web app",
-    github: "https://github.com/Beingadnan/Spotify-Clone.git",
+    github: "https://github.com/AshfakKhan786/Calculater/tree/main",
   },
   {
     id: 2,
@@ -281,7 +287,7 @@ export const projects = [
     image:
       "https://user-images.githubusercontent.com/45651397/78636372-d96e5b00-78c5-11ea-93ee-c195c5b8ee9a.png",
     tags: ["Java"],
-    github: "https://github.com/Beingadnan/StudentDataBase.git",
+    github: "https://github.com/AshfakKhan786/StudentDatabase",
   },
   {
     id: 3,
@@ -290,7 +296,8 @@ export const projects = [
     description:"A notes application built with React.js, offering a clean and intuitive interface for creating, editing, and managing notes seamlessly.",
     image:
       "https://user-images.githubusercontent.com/89729177/132137360-3515b331-6d30-48ea-9959-3b5815e66593.png",
-    github: "https://github.com/Beingadnan/react-notes-app.git",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/AshfakKhan786/notes_app",
+    tags: ["React Js", "CSS", "HTML", "JavaScript"],
+    category: "web app",
   },
 ]
